@@ -1,4 +1,4 @@
-#A React Native application illustrating use of Redux and Redux thunk
+# A React Native application illustrating use of Redux and Redux thunk
 
 Libraries used: 
    - react, react-native- for creating a cross platform native app
